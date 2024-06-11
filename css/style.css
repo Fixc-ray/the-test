@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1718004438746-4ef85144ee96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8fA%3D%3D);
+    height: 100vh;
+}
+
+h1 {
+    text-align: right;
+    margin-right: 20px;
+    color: white;
+}
+
+#title {
+    margin-top: 350px;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    text-align: right;
+    margin-right: 10px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 300px;
+}
+
+#note {
+    font-size: 35px;
+    text-align: center;
+}
